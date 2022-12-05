@@ -1,25 +1,64 @@
 .pattern{
     background-image: url(img/pattern.png);
     background-repeat: repeat;
-    background-color:blue;
+    background-color:rgb(78, 160, 255);
     background-size: contain;
     height: 150px;
-    margin: auto;
+    
 }
 
 #logo{
     height: 80px;
+    margin-top: 70px;
+}
+
+.titolo{
+    margin-bottom: 0;
+}
+
+.grigio{
+    color: gray;
+}
+
+.giallo{
+    background-color: yellow;
+}
+
+.booleaner{
+    color: aqua;
+}
+
+.paragrafo{
+    margin:auto;
 }
 
 .tabella{
     text-align: left;
+    border-collapse: collapse;
+    height: 200px;
 }
 
 .thead{
-    background-color: blue;
+    background-color:rgb(32, 169, 229);
     color: white;
 }
 
 .riga{
-    background-color: cyan;
+    background-color: rgb(177, 229, 242);
+}
+
+.monitor{
+    background-image: url(img/monitor.jpg);
+    background-size: auto;
+    height: 200px;
+    width: 300px;
+    color: white;
+}
+
+.grafico{
+    background-image: url(img/graph.jpg);
+    background-size: auto;
+    height: 200px;
+    width: 300px;
+    color: white;
 }
