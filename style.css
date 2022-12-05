@@ -1,0 +1,25 @@
+.pattern{
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+    background-color:blue;
+    background-size: contain;
+    height: 150px;
+    margin: auto;
+}
+
+#logo{
+    height: 80px;
+}
+
+.tabella{
+    text-align: left;
+}
+
+.thead{
+    background-color: blue;
+    color: white;
+}
+
+.riga{
+    background-color: cyan;
+}
