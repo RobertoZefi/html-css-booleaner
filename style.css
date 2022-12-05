@@ -10,6 +10,7 @@
 #logo{
     height: 80px;
     margin-top: 70px;
+    margin-left: 100px;
 }
 
 .titolo{
@@ -20,22 +21,17 @@
     color: gray;
 }
 
-.giallo{
-    background-color: yellow;
-}
 
 .booleaner{
-    color: aqua;
+    color: rgb(32, 169, 229);
 }
 
-.paragrafo{
-    margin:auto;
-}
 
 .tabella{
     text-align: left;
     border-collapse: collapse;
     height: 200px;
+    width: 80%;
 }
 
 .thead{
@@ -61,4 +57,9 @@
     height: 200px;
     width: 300px;
     color: white;
+}
+
+.margine{
+    margin-left: 100px;
+    margin-right: 100px;
 }
